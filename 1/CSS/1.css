@@ -1,0 +1,136 @@
+* { margin: 0 auto; margin: 0; padding: 0;text-decoration: none}
+a {
+    color: black;
+}
+.headA {
+    width: 950px;
+    height: 25px;
+    /*background-color: red;*/
+    text-align: right;
+}
+.headB {
+    width: 949px;
+    height: 87px;
+    background-color: #0f2c8c;
+}
+.shou {
+    width: 265px;
+    height: 30px;
+}
+.shou_div{
+    width: 400px;
+    height: 50px;
+    /*background-color: red;*/
+    text-align: right;
+}
+.shou_div_font{
+    text-align: left;
+}
+.shou_lower_one{
+    width: 230px;
+    height: 30px;
+    /*background-color: red;*/
+    text-align: right;
+}
+.shou_lower_two{
+    width: 80px;
+    height: 30px;
+    /*background-color: red;*/
+    text-align: right;
+}
+
+.button1
+{
+    height: 33px;
+    width: 60px;
+}
+.feet {
+    width: 950px;
+    height: 50px;
+    background-color: #644109;
+    text-align: right;
+    line-height: 50px;
+}
+.feet1{
+    background-color: #008000;
+}
+.feet2{
+    background-color: #ffa500;
+}
+.bodyA{
+    width: 950px;
+    height: 509px;
+    /*background-color: #00BA2A;*/
+}
+.fenlei{
+    width: 950px;
+    height: 30px;
+    background-color: #644109;
+}
+.fenlei1{
+    width: 195px;
+    height: 30px;
+    /*background-color: blue;*/
+    float: left;
+}
+.fenlei2{
+    width: 755px;
+    height: 30px;
+    /*background-color: yellow;*/
+    float: left;
+}
+.body_left{
+    width: 195px;
+    height: 478px;
+    /*background-color: red;*/
+    float: left;
+}
+.font_table_bt{
+    color: #644109;
+}
+.body_left_table{
+    font-size: 13px;
+}
+
+.body_center{
+    width: 470px;
+    height: 478px;
+    /*background-color: pink;*/
+    float: left;
+}
+.body_center_img1{
+    width: 470px;
+    height: 150px;
+}
+.body_center_img2{
+    width: 96px;
+    height: 100px;
+}
+.font_color_red{
+    font-size: 2px;
+    color: red;
+}
+.font_color_black{
+    font-size: 3px;
+    color: black;
+}
+.body_right{
+    height: 478px;
+    width: 285px;
+    /*background-color: #00FFFF;*/
+    float: left;
+}
+.body_right_table_one{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.body_right_two{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.body_center_img3
+{
+    height: 80px;
+    width: 285px;
+}
